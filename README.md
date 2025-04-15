@@ -1,6 +1,6 @@
 # Relatório de Auditoria de Sistemas
 
-Este repositório contém o relatório de auditoria do "Sistema do Sobrinho", desenvolvido como parte do projeto da disciplina de Auditoria e Qualidade de Software da FATEC.
+Este repositório contém o relatório de auditoria do "Sistema do Sobrinho", desenvolvido como parte do projeto de Qualidade de Software da FATEC.
 
 ## 📋 Descrição do Projeto
 
